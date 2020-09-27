@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b45a6a7f-353f-49a6-8e7d-e0aefddca665" name="zzy_vm">
+        <fileTransfer rootFolder="/home/zzy/Code/VoxelMorph" accessType="SFTP" host="49.52.10.98" port="22" sshConfigId="415c4314-9c02-443b-9b57-81b4f9ce4fa7" sshConfig="zuzhiang_B808">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
